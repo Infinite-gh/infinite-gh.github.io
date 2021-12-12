@@ -1,0 +1,14 @@
+{
+  "name": "negative-zero-website",
+  "version": "2.0.0",
+  "description": "Official website of Negative Zero",
+  "repository": "https://github.com/Infinite-gh/infinite-gh.github.io.git",
+  "author": "Negative Zero (KZacharski, NRDsstuff)",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "parcel": "^2.0.1",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^3.0.1"
+  }
+}
