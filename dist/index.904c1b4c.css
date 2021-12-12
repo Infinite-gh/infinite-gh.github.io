@@ -247,6 +247,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   display: flex;
 }.h-screen {
   height: 100vh;
+}.justify-center {
+  justify-content: center;
 }.place-self-center {
   place-self: center;
 }.bg-gradient-to-br {
@@ -256,6 +258,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgb(109 40 217 / 0));
 }.to-cyan-400 {
   --tw-gradient-to: #22d3ee;
+}.p-5 {
+  padding: 1.25rem;
 }.text-center {
   text-align: center;
 }.text-3xl {
